@@ -17,7 +17,7 @@
 
 <resources>
     <!-- Primary color (Color for the toolbars). -->
-    <color name="calculator_primary_color">#7c22cc</color>
+    <color name="calculator_primary_color">#212121</color>
 
     <!-- Status bar color. -->
     <color name="calculator_statusbar_color">#000000</color>
